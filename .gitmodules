@@ -1,0 +1,6 @@
+[submodule "client-side"]
+	path = client-side
+	url = https://github.com/lakshmangiri/client-side.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/lakshmangiri/back-end.git
